@@ -1,4 +1,4 @@
-# 📖 Lipza Documentation Index
+# 📖 Lipza (MAINTAINING - NOT WORKING FOR NOW ... 👷🏼)
 
 Welcome to Lipza - Real-time Lip Reading Application with WebSocket Integration!
 
